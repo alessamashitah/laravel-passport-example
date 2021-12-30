@@ -17,6 +17,9 @@
                     {{ __('Now You are logged in!') }}
                 </div>
             </div>
+
+            <passport-component></passport-component>
+            
         </div>
     </div>
 </div>
