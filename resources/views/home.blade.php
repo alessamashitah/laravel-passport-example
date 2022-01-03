@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('Now You are logged in!') }}
+                    {{ __('Now You are logged in! You can create access tokens for your API in this section!') }}
                 </div>
             </div>
 
